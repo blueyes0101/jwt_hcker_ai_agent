@@ -1,5 +1,4 @@
 # jwt_hcker_ai_agent
-# jwt_hcker_ai_agent
 
 ## Projektbeschreibung
 jwt_hcker_ai_agent ist ein hochentwickeltes KI-Tool, das speziell für die Analyse und Sicherung von JSON Web Tokens (JWT) entwickelt wurde. In der heutigen digitalen Welt, in der Datensicherheit von größter Bedeutung ist, bietet dieses Tool eine umfassende Lösung zur Identifizierung und Behebung von Schwachstellen in JWTs. Es ist ein integraler Bestandteil der CrewAI-Plattform, die darauf abzielt, die Sicherheit und Integrität von Daten zu gewährleisten.
